@@ -1,0 +1,14 @@
+The initial step :
+https://dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/
+
+Extracting keys from Twitter by making an API app:
+https://apps.twitter.com/app/14129045/keys
+
+Getting the list of all the followers :
+https://stackoverflow.com/questions/17455107/the-best-way-to-get-a-list-of-followers-in-python-with-tweepy
+
+Getting the list of all following :
+https://stackoverflow.com/questions/25944037/full-list-of-twitter-friends-using-python-and-tweepy
+
+Read the documentation of tweeky :
+http://docs.tweepy.org/en/v3.5.0/cursor_tutorial.html
