@@ -12,3 +12,6 @@ https://stackoverflow.com/questions/25944037/full-list-of-twitter-friends-using-
 
 Read the documentation of tweeky :
 http://docs.tweepy.org/en/v3.5.0/cursor_tutorial.html
+
+Like a tweet :
+https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library
